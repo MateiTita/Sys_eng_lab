@@ -1,3 +1,3 @@
 # Sys_eng_lab
 
-NU E CONFLICT
+Asta este un conflict
